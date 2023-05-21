@@ -11,6 +11,7 @@ Seu objetivo é, de posse desses dados, desenvolver o frontend de aplicação we
 
 Setup de ambiente: 
 Download Node
+Download NPM
 
 Como rodar na minha máquina? 
 Clone o projeto
